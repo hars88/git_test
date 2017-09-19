@@ -1,0 +1,2 @@
+git text 3
+added new line
